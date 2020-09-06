@@ -1,3 +1,5 @@
+This is NOT the official GitHub site for Marlin firmware.  The official Marlin firmware GitHub site is <https://github.com/MarlinFirmware/Marlin>.
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
